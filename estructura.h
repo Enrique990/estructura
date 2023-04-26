@@ -4,7 +4,7 @@ typedef struct{
     char nombre[30];
 }categoria;
 
-categoria categorias[MAX];
+//categoria categorias[MAX];
 
 typedef struct{
     int id;
@@ -14,4 +14,4 @@ typedef struct{
     categoria categoria;
 }producto;
 
-producto productos[MAX];
+//producto productos[MAX];
